@@ -2,3 +2,8 @@
 body {
     background-color: lightgreen
 }
+
+#earnings {
+    text-align:center;
+    color: red;
+}
